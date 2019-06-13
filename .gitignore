@@ -1,5 +1,5 @@
 .DS_Store
 env/
 remote/hw*/q*/data/
-remote/hw*/q*/run.sh
+remote/hw*/q*/run*.sh
 remote/hw0/pg100.txt
